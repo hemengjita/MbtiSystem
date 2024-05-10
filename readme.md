@@ -1,3 +1,6 @@
+# To do list
+* 更新同步最新版的ZhipuAI sdk
+* 实现基于langchain 调用的流式输出
 # 教程
 
 ## 环境准备
